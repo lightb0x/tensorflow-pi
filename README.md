@@ -15,3 +15,7 @@ chmod +x install.sh
 * 2.2.0
 * 2.3.1
 
+
+## reference
+* 2.2.0 wheel from [Korean blog](https://bluexmas.tistory.com/1076)
+* 2.3.1 wheel from [PINTO0309 github](https://github.com/PINTO0309/Tensorflow-bin)
